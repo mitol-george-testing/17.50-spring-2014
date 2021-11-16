@@ -1,0 +1,45 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Political Philosophy"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "American Politics"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "Comparative Politics"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "ce86032f-5132-e821-cd04-f268905fb61d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to Comparative Politics",
+  "course_description": "This course examines why democracy emerges and survives in some countries rather than in others; how political institutions affect economic development; and how American politics compares to that of other countries.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.50",
+  "learning_resource_types": [
+    "Exams",
+    "Activity Assignments",
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
